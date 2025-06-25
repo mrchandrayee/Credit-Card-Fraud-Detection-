@@ -87,6 +87,6 @@ This project implements a production-ready, end-to-end machine learning pipeline
 ---
 **Author:** Chand Rayee  
 **License:** MIT  
-**Contact:** chandrayee.cse@gmail.comS
+**Contact:** chandrayee.cse@gmail.com
 
 This project provides a robust, efficient, and scalable foundation for credit card fraud detection in real-world financial systems.
